@@ -1,3 +1,7 @@
+# Full prompts in Poster H1-H11
+![Fluency adjustment Prompts](FluencyAdjustmentPrompts.png "Fluency adjustment prompts")
+
+
 # RLPromptV2
 We investigate the influence of prompts on open-source LLMs in the medical question-answering setting, and extend our evaluation to retrieval-augmented question-answering, which  accurately models typical LLM deployments.
 
