@@ -1,5 +1,7 @@
 # Full prompts in Poster H1-H11
 ![Fluency adjustment Prompts](FluencyAdjustmentPrompts.png "Fluency adjustment prompts")
+![Fluency adjustment scores](FluencyAdjustmentScores.png "Fluency adjustment scores")
+
 
 
 # RLPromptV2
